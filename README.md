@@ -1,4 +1,6 @@
 
+(labp2d.png)
+
 # Baia da Babitonga
 
 Lista de recursos de Computação de Alto Desempenho da **Baia da Babitonga** mantida pelo LabP2D.
@@ -9,7 +11,7 @@ Lista de recursos de Computação de Alto Desempenho da **Baia da Babitonga** ma
 
 Clique na imagem abaixo.
 
-[![Baia da Babitonga](labp2d.png)](Agregado-HPC_BaiaDaBabitonga.pdf)
+[![Baia da Babitonga]](Agregado-HPC_BaiaDaBabitonga.pdf)
 
 ---
 
