@@ -5,8 +5,6 @@
 
 Lista de recursos de Computação de Alto Desempenho da **Baia da Babitonga** mantida pelo LabP2D.
 
-> **Nota:** Este README segue a mesma organização do README do CMU, adaptado para a Baia da Babitonga.
-
 📖 **Manual do Usuário**
 
 Clique na imagem abaixo.
