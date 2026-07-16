@@ -5,6 +5,12 @@ Lista de recursos de Computação de Alto Desempenho da **Baia da Babitonga** ma
 
 > **Nota:** Este README segue a mesma organização do README do CMU, adaptado para a Baia da Babitonga.
 
+📖 **Manual do Usuário**
+
+Clique na imagem abaixo.
+
+[![Baia da Babitonga](babitonga.jpg)](Agregado-HPC_BaiaDaBabitonga.pdf)
+
 ---
 
 ## Sumário
