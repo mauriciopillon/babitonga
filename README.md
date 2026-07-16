@@ -11,7 +11,7 @@ Lista de recursos de Computação de Alto Desempenho da **Baia da Babitonga** ma
 
 Clique na imagem abaixo.
 
-[![Baia da Babitonga](Babitonga)](Agregado-HPC_BaiaDaBabitonga.pdf)
+[![Baia da Babitonga](babitonga.png)](Agregado-HPC_BaiaDaBabitonga.pdf)
 
 ---
 
